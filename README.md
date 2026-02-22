@@ -32,12 +32,14 @@ This project helps users perform exercises correctly and avoid injuries.
 
 ## 📂 Project Structure
 
+```
 AI_Fitness_Trainer/
 │
 ├── app.py                # Main Streamlit application
 ├── requirements.txt      # Required dependencies
 ├── README.md             # Project documentation
 └── assets/               # (Optional) images/videos
+```
 
 ---
 
