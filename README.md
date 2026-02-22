@@ -41,8 +41,7 @@ AI_Fitness_Trainer/
 ├── curl_counter_frontend.py   # Frontend UI logic for curl counter
 ├── posture_detector.py        # Posture detection and pose analysis module
 ├── yolov8s-pose.pt             # Pre-trained YOLOv8 Pose model weights
-├── requirements.txt           # Required dependencies
-└── README.md                  # Project documentation
+
 ```
 
 ---
