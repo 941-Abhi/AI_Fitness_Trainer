@@ -131,9 +131,6 @@ http://localhost:8501
 - Voice assistant feedback
 - Cloud deployment
 
---- 
-
----
 
 ## 📜 License
 
