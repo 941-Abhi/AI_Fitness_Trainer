@@ -40,7 +40,7 @@ AI_Fitness_Trainer/
 ├── curl_counter.py            # Logic for counting bicep curl repetitions
 ├── curl_counter_frontend.py   # Frontend UI logic for curl counter
 ├── posture_detector.py        # Posture detection and pose analysis module
-├── yolov8s-pose.pt             # Pre-trained YOLOv8 Pose model weights
+|__ yolov8s-pose.pt             # Pre-trained YOLOv8 Pose model weights
 
 ```
 
