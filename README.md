@@ -131,12 +131,7 @@ http://localhost:8501
 - Voice assistant feedback
 - Cloud deployment
 
----
-
-## 👨‍💻 Author
-
-Pudugosula Abhishek  
-AI & ML Enthusiast  
+--- 
 
 ---
 
